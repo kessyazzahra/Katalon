@@ -1,0 +1,13 @@
+openweather-katalon-api-test
+│
+├── Object Repository
+├── Test Cases
+├── Test Suites
+├── Include
+│   └── schema
+│        ├── forecast_schema.json
+│        └── air_pollution_schema.json
+├── Profiles
+├── Reports
+├── README.md
+└── katalon.prj
